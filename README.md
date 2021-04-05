@@ -3,6 +3,7 @@
 </p>
 An augmented reality application for children of ages 5-11, that provides them with knowledge about  the different types of sports on a worldwide scale. It also tests their knowledge of the learned material from the application, through a quiz game provided within the application.
 <br>
+
 The application has two main functions:
 
 1. Exploring sports
