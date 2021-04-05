@@ -19,7 +19,7 @@ __This project was built for Android platform.__
 >   * [Prerequisites](#Prerequisites)
 >   * [Installing and How to Use](#Installation--How-to-Use)
 >   * [Built With](#Built-With)
->   * [Support Contatct](#Support-Contact)
+>   * [Support Contact](#Support-Contact)
 
 ## Prerequisites
 *	An android device with a built-in camera, an operating system of 4.1.x+ .
