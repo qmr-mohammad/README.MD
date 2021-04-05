@@ -2,14 +2,14 @@
 <p align="center"> <img width="450" alt="Screen Shot 1442-08-22 at 3 06 00 AM" src="https://user-images.githubusercontent.com/81882196/113494642-cef39b00-94f2-11eb-96e8-cd0d1d58935a.png">
 </p>
 An augmented reality application for children of ages 5-11, that provides them with knowledge about  the different types of sports on a worldwide scale. It also tests their knowledge of the learned material from the application, through a quiz game provided within the application.
-<br/>
+<br>
 The application has two main functions:
 
 1. Exploring sports
 2. Playing a game 
 
 The purpose of this application is to provide a fun application using the AR technology, to teach children about the different types of sports games worldwide. With the use of this application children can learn about every country’s most famous sports games and have a look at how it’s played and gain a background knowledge on it.  
-<br/>
+
 __This project was built for Android platform.__
 
 ## Table of contents
